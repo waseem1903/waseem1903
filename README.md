@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ReactJS, NodeJS, ExpressJS, MongoDB
+- 🌱 I’m currently learning MERN Stack
+- 👯 I’m looking to collaborate on MERN Stack Projects
